@@ -1,9 +1,10 @@
-[12:42 PM, 5/15/2022] Parul Sura: #include <iostream>
+ #include <iostream>
 using namespace std;
-
+// heelo parulSura
 
    
 int main(){
+int parul;
     int input[100], count, i, num;
        
     cout << "Enter Number of Elements in Array\n";
