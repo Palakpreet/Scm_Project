@@ -1,5 +1,7 @@
 [12:42 PM, 5/15/2022] Parul Sura: #include <iostream>
 using namespace std;
+
+
    
 int main(){
     int input[100], count, i, num;
@@ -12,10 +14,13 @@ int main(){
     // Read array elements
     for(i = 0; i < count; i++){
         cin >> input[i];
+        
+        
     }
       
     cout << "Enter a number to serach in Array\n";
     cin >> num;
+    
       
     // search num in inputArray from index 0 to elementCount-1 
     for(i = 0; i < count; i++){
