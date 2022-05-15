@@ -4,6 +4,7 @@ using namespace std;
 
    
 int main(){
+int parul;
     int input[100], count, i, num;
        
     cout << "Enter Number of Elements in Array\n";
