@@ -1,4 +1,4 @@
-[12:42 PM, 5/15/2022] Parul Sura: #include <iostream>
+#include <iostream>
 using namespace std;
    
 int main(){
